@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![jesusjimsa github stats](https://github-readme-stats.vercel.app/api?username=jesusjimsa&show_icons=true&count_private=true&include_all_commits=true)
+![jesusjimsa language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusjimsa&hide=vhdl&langs_count=9&layout=compact)
