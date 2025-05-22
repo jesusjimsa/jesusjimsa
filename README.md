@@ -31,7 +31,7 @@ I love working on projects that have a real-world impact and can improve people�
 ## 🌱 Outside of Coding
 
 - 🥁 I play bass guitar, violin, and drums — especially Beatles songs!
-- 🥋 I enjoy karate, hiking, running, and gardening.
+- 🥋 I enjoy karate, hiking, running, reading and gardening.
 - 🌍 I love building things that people can use and enjoy.
 
 ---
